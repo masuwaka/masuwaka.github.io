@@ -11,7 +11,7 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Technical insights on AI, signal processing, and system administration.
   Deep dives into machine learning, networking, and software engineering.
 footer_text: >
-  Technical nodes by masuwaka.
+  Technical notes by masuwaka.
 keywords: AI, Machine Learning, Data Science, System Administration, Programming Languages, Signal Processing, Linux, Ubuntu
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
