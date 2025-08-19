@@ -29,6 +29,7 @@ Welcome to my technical notes.
 I document practical insights from working with AI systems, network infrastructure, and software development. These are real-world implementations and troubleshooting guides based on hands-on experience.
 
 **Focus areas:**
+
 - AI system deployment and optimization
 - Linux system administration and automation
 - Network configuration and DNS management
