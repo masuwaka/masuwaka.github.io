@@ -1,0 +1,8 @@
+{
+  "markdownlint.config": {
+    "MD033": false,  // Inline HTML許可
+    "MD013": false,  // 行長制限無効
+    "MD041": false,  // 最初の行がh1でなくてもOK
+    "MD024": false   // 重複見出しOK
+  }
+}
