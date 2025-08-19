@@ -6,7 +6,7 @@ subtitle: Technical insights on AI, system administration, and software engineer
 
 profile:
   align: right
-  image: spotted garden eel.png
+  image: spotted_garden_eel.png
   image_circular: false # crops the image to make it circular
   more_info:
 
