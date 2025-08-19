@@ -4,5 +4,22 @@
     "MD013": false,  // 行長制限無効
     "MD041": false,  // 最初の行がh1でなくてもOK
     "MD024": false   // 重複見出しOK
-  }
+  },
+  "cSpell.enabled": true,
+  "cSpell.language": "en",
+  "cSpell.words": [
+    "masuwaka",
+    "ddclient",
+    "cloudflare",
+    "ubuntu",
+    "jekyll",
+    "github",
+    "Kanagawa",
+    "LDPC",
+    "CUDA",
+    "Numpy",
+    "Optuna",
+    "Omniverse",
+    "interpretability"
+  ],
 }
