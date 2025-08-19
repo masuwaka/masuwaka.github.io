@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://masuwaka.github.io/sitemap.xml
+Sitemap: https://masuwaka.net/sitemap.xml
