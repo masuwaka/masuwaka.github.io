@@ -20,7 +20,8 @@ the IP is not necessarily fixed but changes dynamically over time.
 Nevertheless, keeping track of the home server's IP is difficult,  
 and sometimes impossible, e.g., when you are away from home.
 
-In such cases, constantly updating the link between the changing home server's IP and a domain name using **DDNS (Dynamic Domain Name System)** is helpful;  
+In such cases, constantly updating the link between the changing home server's IP and  
+a domain name using **DDNS (Dynamic Domain Name System)** is helpful;  
 you can access your home server via the domain name, without being aware of the current IP.
 
 Therefore, many people individually acquire their own domains and link them to their home servers' IPs using DDNS,  
