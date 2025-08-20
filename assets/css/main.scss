@@ -23,3 +23,15 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-filled.scss",
   "tabler-icons/tabler-icons-outline.scss"
 ;
+
+.post-content {
+  h1, h2, h3, h4, h5, h6 {
+    font-weight: bold;
+  }
+}
+
+.post-title,
+h1.post-title,
+.page-title {
+  font-weight: bold !important;
+}

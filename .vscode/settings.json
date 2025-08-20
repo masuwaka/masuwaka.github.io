@@ -20,6 +20,11 @@
     "Numpy",
     "Optuna",
     "Omniverse",
-    "interpretability"
+    "interpretability",
+    "DDNS",
+    "Squarespace",
+    "ipify",
+    "Configurating",
+    "sudoer"
   ],
 }
