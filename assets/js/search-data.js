@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-a-post-with-jupyter-notebook",
+        },{id: "post-dynamic-dns-with-cloudflare-and-ddclient-complete-ubuntu-24-04-setup-guide",
+        
+          title: "Dynamic DNS with Cloudflare and ddclient: Complete Ubuntu 24.04 Setup Guide",
+        
+        description: "A comprehensive guide to setting up dynamic DNS using Cloudflare and DDClient on Ubuntu 24.04. Perfect for home servers and self-hosted services.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/08/20/dynamic-dns-cloudflare-ddclient-ubuntu-setup/";
+          
+        },
+      },{id: "post-a-post-with-jupyter-notebook",
         
           title: "a post with jupyter notebook",
         
