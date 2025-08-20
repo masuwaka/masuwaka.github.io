@@ -6,6 +6,7 @@ description: A comprehensive guide to setting up dynamic DNS using Cloudflare an
 tags: ddclient cloudflare ubuntu dynamic-dns home-server networking
 categories: tutorials
 related_posts: false
+giscus_comments: true
 ---
 
 ## Introduction
